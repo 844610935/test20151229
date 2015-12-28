@@ -5,7 +5,7 @@
 *3、html+css+js
 *4、jsp
 *5、struts2+sping+hibernate
-*
+*6、实现客户端+android+浏览器三平台通信
 *
 *
 ************************************/
